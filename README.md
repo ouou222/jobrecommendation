@@ -1,6 +1,7 @@
 # jobrecommendation
 data for graduates job recommendation
 这些数据集合是用于毕业生就业推荐的数据集
+
 其中pkl文件需要在python中安装pickle包进行使用
 data.pkl数据包含：
 train_posset #包括1：4比例的训练集正负样本
